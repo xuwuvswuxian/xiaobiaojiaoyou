@@ -1,0 +1,35 @@
+.left-div {
+    background-color: rgb(245 245 245);
+    border-right: 1px solid lightgrey;
+    width: 15%;
+    float: left;
+    height: 90%;
+}
+
+.top {
+    font-size: 22px;
+    height: 35px;
+    text-align: left;
+}
+
+.first-font-size {
+    font-size: 20px;
+    height: 35px;
+    padding-left: 30px;
+}
+
+.second-font-size {
+    /*display: none;*/
+    font-size: 18px;
+    height: 30px;
+    padding-left: 70px;
+}
+li:hover {
+    background-color: rgb(211 211 211);
+}
+
+p:hover {
+    background-color: rgb(211 211 211);
+}
+
+
